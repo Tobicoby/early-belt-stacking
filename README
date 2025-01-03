@@ -1,7 +1,8 @@
 # Early Belt Stacking
 
 ## Overview
-Early Belt Stacking is a Factorio mod that allows players to stack items on belts earlier in the game. 
+Early Belt Stacking is a Factorio mod that allows players to stack items on belts earlier in the game.
+Adds Infinite Belt Stacking and Inserter Capacity
 
 ## Features
 - Unlocks belt stacking technology earlier in the game.
@@ -17,3 +18,6 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 ## License
 This mod is licensed under the MIT License. See the `LICENSE` file for more details.
+
+## Credits
+Belt Stack workaround by `notnotmelon`

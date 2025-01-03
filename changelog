@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 03. 01. 2025
+  Changes:
+    - Added infinite belt stacking (researchable)
+    - Added infinite inserter cap for belt stacking (researchable)
+    - Changed technologies that they no longer require Gleba Science
+
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 02. 01. 2025
   Info:
